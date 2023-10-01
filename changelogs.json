@@ -7,7 +7,7 @@
             ["none", "white changelog description text"]
         ]
     ],
-    [{"time": 1696141289, "version": "0.0.2"},
+    [{"time": 1696152707, "version": "0.0.2"},
         [
             ["add", "i dont know what to add here so something random"],
             ["remove", "did i remove something?"],
