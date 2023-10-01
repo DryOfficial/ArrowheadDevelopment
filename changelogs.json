@@ -1,8 +1,10 @@
-{
-    "1696141289": [
-        ["add", "added changelog description text"],
-        ["remove", "removed changelog description text"],
-        ["change", "changed changelog description text"],
-        ["none", "white changelog description text"]
+[
+    [{"time": 1696141289},
+        [
+            ["add", "added changelog description text"],
+            ["remove", "removed changelog description text"],
+            ["change", "changed changelog description text"],
+            ["none", "white changelog description text"]
+        ]
     ]
-}
+]
