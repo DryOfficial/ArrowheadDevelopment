@@ -1,10 +1,18 @@
 [
-    [{"time": 1696141289},
+    [{"time": 1696141289, "version": "0.0.1"},
         [
             ["add", "added changelog description text"],
             ["remove", "removed changelog description text"],
             ["change", "changed changelog description text"],
             ["none", "white changelog description text"]
+        ]
+    ],
+    [{"time": 1696141289, "version": "0.0.2"},
+        [
+            ["add", "i dont know what to add here so something random"],
+            ["remove", "did i remove something?"],
+            ["change", "i change something ok"],
+            ["none", "a note text"]
         ]
     ]
 ]
